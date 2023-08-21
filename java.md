@@ -31,4 +31,21 @@ Estrutura de dados
 - Ordenada
 - Alocada
 - Acesso imediato aos elementos pela sua posição [499] sem precisar percorrer todos os elementos
-- 
+
+### Wrapper classes e unboxing
+- tem como objetivo de tratr os tipos primitivos como classes de forma transparente ao compilador,
+- pois os tipos referencias(classes) aceitam valor num e usurfruem dos recursos OO, herancas, poliformicos e tals
+
+### Listas
+- Só guardar dados do mesmo tipo
+- Coleção ordenada, acessado por posições
+- Inicia vazia, e alocados sobre demanda, difrente do vetor
+- Cada elemento ocupa um no (nodo) que tem info do próximo
+- List é uma interface e não classe, não posso instanciar, preciso faer isso dentro de umc classe
+- Classe que implementam: ArrayList, LinkedList e outras
+- Tamanho variavel
+- Facilita para inserções e deleções
+- Não aceita tipos primitivos
+
+### Matrizes
+ Arranjo bidemensionais, "vetor de vetores"
