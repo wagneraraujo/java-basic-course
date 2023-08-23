@@ -49,3 +49,4 @@ Estrutura de dados
 
 ### Matrizes
  Arranjo bidemensionais, "vetor de vetores"
+ bidimensional -> int[][]
